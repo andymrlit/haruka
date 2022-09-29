@@ -9,11 +9,11 @@
     "BotKey": "Gsyt6jRJ",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
-    "autobio": false,
+    "autobio": true,
     "anticall": true,
     "autorespond": false,
     "autoblok212": true,
-    "autoread": false,
+    "autoread": true,
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
