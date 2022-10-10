@@ -16,18 +16,18 @@ exports.allMenu = (role, ucapanWaktu, pushname, mundur, upload, download, ownerN
     return`${ucapanWaktu} ${pushname !== undefined ? pushname : 'Kak'}
 
 Yooo sak genla 
-${mundur}
+𝙖𝙣𝙙𝙮𝙗𝙤𝙩𝙢𝙙 𝙫𝙚𝙧𝙨𝙞𝙤𝙣 𝙫𝙞𝙥 
 
 *STATISTICS*
  • Upload : ${upload}
  • Downloads : ${download}
 
 *BOT INFO*
- • Creator : ${ownerName}
- • Bot Name : ${botName}
- • Time : ${jam}
- • Date : ${tanggal(new Date())}
- • Runtime : ${runtime(process.uptime())}
+ • 𝙘𝙧𝙚𝙖𝙩𝙤𝙧 : 𝙖𝙣𝙙𝙮 𝙢𝙧 𝙡𝙞𝙩 @50941411147
+ • 𝙗𝙤𝙩 𝙣𝙖𝙢𝙚 : ${botName}
+ • 𝙩𝙞𝙢𝙚 : ${jam}
+ • 𝙙𝙖𝙩𝙚 : ${tanggal(new Date())}
+ • 𝙧𝙪𝙣𝙩𝙞𝙢𝙚 : ${runtime(process.uptime())}
 
 *USER INFO*
  • Name : ${pushname !== undefined ? pushname : '-'}
