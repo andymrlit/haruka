@@ -1,4 +1,5 @@
-const fs = require("fs");
+
+ fs = require("fs");
 const petik = '```'
 let setting = JSON.parse(fs.readFileSync('./config.json'))
 const { getLimit, getBalance, cekGLimit } = require("../lib/limit")
@@ -17,6 +18,7 @@ exports.allMenu = (role, ucapanWaktu, pushname, mundur, upload, download, ownerN
 
 Yooo sak genla 
 𝙖𝙣𝙙𝙮𝙗𝙤𝙩𝙢𝙙 𝙫𝙚𝙧𝙨𝙞𝙤𝙣 𝙫𝙞𝙥 
+collaborators: sadboy/alias olivier
 
 *STATISTICS*
  • Upload : ${upload}
