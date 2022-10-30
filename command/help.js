@@ -18,7 +18,7 @@ exports.allMenu = (role, ucapanWaktu, pushname, mundur, upload, download, ownerN
 
 Yooo sak genla 
 𝙖𝙣𝙙𝙮𝙗𝙤𝙩𝙢𝙙 𝙫𝙚𝙧𝙨𝙞𝙤𝙣 𝙫𝙞𝙥 
-collaborators: sadboy/alias olivier
+collaborators: MaxiOfc
 
 *STATISTICS*
  • Upload : ${upload}
